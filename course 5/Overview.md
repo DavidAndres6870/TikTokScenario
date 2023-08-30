@@ -9,34 +9,38 @@ TikTok is working on the development of a predictive model that can determine wh
 **Project background**
 TikTok’s data team is working on the claims classification project. The following tasks are needed at this stage of the project:
 
-*Explore the project data
+* Determine the correct modeling approach
 
-*Implement a hypothesis test
+* Build a regression model
 
-*Communicate insights with stakeholders within TikTok
+* Finish checking model assumptions
+
+* Evaluate the model
+
+* Interpret model results and summarize findings for cross-departmental stakeholders within TikTok
 
 **Your assignment**
-You will conduct hypothesis testing on the data for the claims classification data. You’ve been asked to investigate TikTok's user claim dataset to determine which hypothesis testing method best serves the data and the claims classification project.
+You will create a regression model for the claims classification data. You'll determine the type of regression model that is needed and develop one using TikTok's claim classification data.
 
 **Team members at TikTok**
 
 *Data team roles*
 
-*Willow Jaffey- Data Science Lead
+* Willow Jaffey- Data Science Lead
 
-*Rosie Mae Bradshaw- Data Science Manager
+* Rosie Mae Bradshaw- Data Science Manager
 
-*Orion Rainier- Data Scientist
+* Orion Rainier- Data Scientist
 
 The members of the data team at TikTok are well versed in data analysis and data science. Messages to these more technical coworkers should be concise and specific.
 
 *Cross-functional team members*
 
-*Mary Joanna Rodgers- Project Management Officer
+* Mary Joanna Rodgers- Project Management Officer
 
-*Margery Adebowale- Finance Lead, Americas
+* Margery Adebowale- Finance Lead, Americas
 
-*Maika Abadi- Operations Lead
+* Maika Abadi- Operations Lead
 
 Your TikTok team includes several managers, who oversee operations. It is important to adjust your general correspondence appropriately to their roles, given that their responsibilities are less technical in nature. 
 
@@ -45,15 +49,15 @@ Note: The story, all names, characters, and incidents portrayed in this project 
 **Specific project deliverables**
 With this end-of-course project, you will gain valuable practice and apply your new skills as you complete the following:
 
-*Course 4 PACE Strategy Document to consider questions, details, and action items for each stage of the project scenario
+* Course 5 PACE Strategy Document to consider questions, details, and action items for each stage of the project scenario
 
-*Answer the questions in the Jupyter notebook project file
+* Answer the questions in the Jupyter notebook project file
 
-*Consider the different groups of data represented in the dataset
+* Create a regression model
 
-*Implement a hypothesis test
+* Evaluate the model
 
-*Create an executive summary to share your results 
+* Create an executive summary to share your results 
 
 **Key takeaways**
 The Google Advanced Data Analytics Certificate end-of-course project is designed for you to practice and apply course skills in a fictional workplace scenario. By completing each course’s end-of-course project, you will have work examples that will enhance your portfolio and showcase your skills for future employers.
