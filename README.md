@@ -68,4 +68,30 @@ The data team at TikTok is close to their goal of building a model to assist in 
 * Interpret model results and summarize findings for cross-departmental stakeholders within TikTok
 
 
+## Course 6 
+
+**Project goal:**
+
+The TikTok data team is developing a machine learning model for classifying claims made in videos submitted to the platform.
+
+**Scenario:**
+
+The data team at TikTok is nearing the end of the claims classification project. The final milestone left for the team: creating the machine learning model. You will be responsible for leading these final tasks, which include feature engineering, model development, and evaluation. 
+
+**Course 6 tasks:**
+
+* Import relevant packages and TikTok data
+
+* Exploratory data analysis
+
+* Feature engineering
+
+* Check model assumptions
+
+* Model building
+
+* Model evaluation
+
+* Summarize findings for cross-departmental stakeholders within TikTok
+
 Note: The story, all names, characters, and incidents portrayed in this project are fictitious. No identification with actual persons (living or deceased) is intended or should be inferred. And, the data shared in this project has been created for pedagogical purposes.
